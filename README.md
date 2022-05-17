@@ -1,5 +1,5 @@
+![This is a gif](https://user-images.githubusercontent.com/71247812/168723339-ac5f7fe0-ef38-43e1-a76f-4d025972ae10.gif)
 
-![This is an image](https://user-images.githubusercontent.com/71247812/161959110-4d0bd58d-ef28-447e-935b-7dbba2fd1207.png)
 
 - 👋 Hi, I’m @nymko
 - 👀 I’m interested in ...
